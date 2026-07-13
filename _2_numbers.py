@@ -105,6 +105,7 @@ print(f"gpa in % formating: {0.5:.1%}") # gpa in % formating
 
 
 # this is how to find hexadeciamal , octal , binary
+# finding hex , octal , bin of 255 ?
 
 hexadecimal = hex(255)  # '0xff'
 octal = oct(255)        # '0o377'
