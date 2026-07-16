@@ -94,7 +94,7 @@ squres = {
 # 9: 81
 # }
 
-print(squres)
+print(squres)=
 
 # formKeys 
 
